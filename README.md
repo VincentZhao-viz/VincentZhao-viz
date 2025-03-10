@@ -2,11 +2,11 @@
 
 👋 Hi, I'm Vincent - a data professional with six years of experience across the Financial Services, Non-profit, and Federal Consulting industries.
 
-💼 Currently: Data Science Consultant at Summit Consulting, LLC
+💼 Current: **Data Science Consultant** at [Summit Consulting, LLC](https://www.summitllc.us/about)
 
 💼 Former:
-- Senior Data Analyst, Call Center Operations at AARP
-- Senior Data Analyst, Small Business Deposit Strategy & Pricing at Capital One
+- **Senior Data Analyst**, Call Center Operations at [AARP](https://www.aarp.org/about-aarp/)
+- **Senior Data Analyst**, Small Business Deposit Strategy & Pricing at [Capital One](https://www.capitalone.com/about/)
 
 
 <!--
