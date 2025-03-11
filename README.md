@@ -4,9 +4,7 @@
 
 💼 Current: **Data Science Consultant** at [Summit Consulting, LLC](https://www.summitllc.us/about)
 
-💼 Former:
-- **Senior Data Analyst**, Call Center Operations at [AARP](https://www.aarp.org/about-aarp/)
-- **Senior Data Analyst**, Small Business Deposit Strategy & Pricing at [Capital One](https://www.capitalone.com/about/)
+💼 Former: **Senior Data Analyst**, Call Center Operations at [AARP](https://www.aarp.org/about-aarp/), **Senior Data Analyst**, Small Business Deposit Strategy & Pricing at [Capital One](https://www.capitalone.com/about/)
 
 About Me:
 - 5 years of experience engineering advanced Tableau dashboards with various cloud data integrations (Snowflake, AWS Athena).
