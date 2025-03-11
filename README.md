@@ -2,7 +2,7 @@
 
 👋 Hi, I'm Vincent - a data professional with six years of experience across the Financial Services, Non-profit, and Federal Consulting industries.
 
-Experience at a Glance:
+📈 Experience at a Glance:
 - 5 years of experience in Tableau Server administration and Tableau development, delivering advanced interactive dashboards to empower data-driven...
 - 5 years of experience analyzing big data with SQL, developing complex SQL queries for
 - 4 years of experience developing Python scripts for process automation, data analysis, and data visualization
