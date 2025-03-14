@@ -3,7 +3,12 @@
 👋 Hi, I'm Vincent - a data professional with 5+ of experience across the Financial Services, Non-profit, and Federal Consulting industries.
 
 📈 Experience at a Glance:
-(Currently Under Construction - come back soon!)
+- 6 years experience building complex SQL queries for data cleansing, data exploration, and data analysis in Cloud environments (Snowflake, AWS Athena).
+- 5 years experience engineering advanced Tableau dashboards with various data integrations to cloud-based data (Snowflake, AWS Athena).
+- 4.5 years experience developing Python scripts for data cleansing, data exploration, data analysis, data visualization, and maintaining data pipelines using both local and Cloud platforms (Jupyter Notebook, Databricks).
+
+**For professional inquiries, please reach out to me via LinkedIn:**
+- https://www.linkedin.com/in/vincent-zhao/
 
 ##
 💼 Current: **Data Science Consultant** at [Summit Consulting, LLC](https://www.summitllc.us/about) <br>
